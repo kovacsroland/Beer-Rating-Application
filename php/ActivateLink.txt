@@ -1,0 +1,1 @@
+http://localhost/UntappdCopy/php/ActivateUser.php?confirm_key=df2cd7104536553afde9f7d66133d578eccb4606
